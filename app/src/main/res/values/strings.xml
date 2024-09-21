@@ -11,7 +11,7 @@
     <string name="login_failed">"Login failed"</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Card Fragment</string>
-    <string name="web_id">AIzaSyAS4B23NRa02eBP72MUBrUoKBNziYZsYAw</string>
+    <string name="web_id">Your Api key</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
